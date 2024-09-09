@@ -6,7 +6,7 @@
 
 <br>
 <p>Output Image</p>
-<img src="https://i.imgur.com/TGjSN5A.png" alt="Output Image" />
+<img src="https://i.imgur.com/o5Wrjb8.png" alt="Output Image" />
 
 <br>
 <p>Follow me for more mini projects - <a href="https://github.com/prathameshvattamwar">Click here to follow</a></p>

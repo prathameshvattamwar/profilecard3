@@ -2,7 +2,7 @@
 <p>You can customize it according to your profile</p>
 
 <br>
-<p>Live Demo - <a href="https://prathameshvattamwar.github.io/profilecard2">Click here</a></p>
+<p>Live Demo - <a href="https://prathameshvattamwar.github.io/profilecard3">Click here</a></p>
 
 <br>
 <p>Output Image</p>
